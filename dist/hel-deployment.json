@@ -1,0 +1,11 @@
+{
+  "target": "github",
+  "name": "@melt-js/demo-vue3",
+  "version": "2026.11.14",
+  "publicUrl": "https://melt-js.github.io/demo-vue3/dist",
+  "remotes": {
+    "REMOTE": "https://melt-js.github.io/comps-vue3/hel_dist/hel-meta.json",
+    "PANEL": "https://melt-js.github.io/libs-vue3-leva/hel_dist/hel-meta.json",
+    "PICKER": "https://melt-js.github.io/comps-vue3-picker/hel_dist/hel-meta.json"
+  }
+}
