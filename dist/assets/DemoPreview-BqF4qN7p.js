@@ -1,0 +1,1 @@
+import{f as c,I as n,o as a}from"./index-TUHMIlxZ.js";const _=(e,o)=>{const t=e.__vccOpts||e;for(const[r,s]of o)t[r]=s;return t},d={},f={class:"demo-preview","data-demo-preview":""};function i(e,o){return a(),c("div",f,[n(e.$slots,"default")])}const m=_(d,[["render",i]]);export{m as D,_};
